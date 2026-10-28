@@ -78,6 +78,11 @@ def store(key, value):
     state[key] = value
 
 
+onkey(lambda: width(1), '1')
+onkey(lambda: width(5), '2')
+onkey(lambda: width(10), '3')
+
+
 state = {'start': None, 'shape': line}
 setup(420, 420, 370, 0)
 onscreenclick(tap)

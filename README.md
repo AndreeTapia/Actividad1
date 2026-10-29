@@ -5,4 +5,5 @@ AndreeTapia:<br>
 - Agrega una función para modificar el grosor de la linea<br>
 
 DKMando:<br>
-- Agrega la función de dibujar triangulo
+- Agrega la función de dibujar rectángulo
+- Agrega la función de dibujar triángulo

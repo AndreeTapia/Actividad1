@@ -1,4 +1,6 @@
 # Actividad 1
+El primer repositorio contiene el archivo paint.py que es un videojuego para dibujar figuras, líneas y demás.
+
 AndreeTapia:<br> 
 - Agrega el nuevo color naranja<br> 
 - Agrega la función de dibujar circulo<br>
